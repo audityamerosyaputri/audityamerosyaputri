@@ -10,6 +10,7 @@ With a deep passion for **programming** and **AI-driven technologies**. I specia
 - 🔭 Pronoun she/her.
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
 - 🚀 func fact about me *i'm a music enthusiast*.
+- 💬 Ask me about *my goals*.
 
 
 
