@@ -1,32 +1,4 @@
- Hi, I'm Auditya Merosya Putri!
-
-i'm currenly a student at University Padang state universitya
-i'm currenly learning informatic and programming langguages 
-fun fact abaout me i'm a music enthusiast
-
-Email: merosyaputri@gmail.com instagram: https://instagram.com/@audityyaaa_ 
-A little more about me...
-
-const thai = {
-  pronouns: "she" | "her",
-  code: [C++, Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=audityamerosyaputri&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=audityamerosyaputri&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=audityamerosyaputri&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=audityamerosyaputri&icon=9&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2> Hi, I'm Auditya Merosya Putri! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>i'm currently students <a href="http://www.unb.br">University Padang State </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I'm currently learning informatic and programming langguage <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
