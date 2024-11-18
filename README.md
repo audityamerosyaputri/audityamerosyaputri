@@ -7,9 +7,9 @@
 
 With a deep passion for **programming** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
 
-- 🔭 Currently working on top-secret projects to reshape industries.
+- 🔭 Pronoun she/her.
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
-- 🚀 On a mission to push the boundaries of what's possible with code.
+- 🚀 func fact about me *i'm a music enthusiast*.
 
 
 
