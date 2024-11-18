@@ -13,7 +13,7 @@ With a deep passion for **programming** and **AI-driven technologies**. I specia
 - 💬 Ask me about *my goals*.
 - 📫 How to reach me : merosyaputri@gmail.com
 
-  [![Instagram Badge](https://img.shields.io/badge/-@audityyaaa_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/audityyaaa_)](https://www.instagram.com/audityyaaa_)
+  [![Instagram Badge](https://img.shields.io/badge/-@audityyaaa__-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/audityyaaa_)](https://www.instagram.com/audityyaaa_)
 [![Gmail Badge](https://img.shields.io/badge/-merosyaputri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 
   
