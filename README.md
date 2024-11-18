@@ -11,6 +11,7 @@ With a deep passion for **programming** and **AI-driven technologies**. I specia
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
 - 🚀 func fact about me *i'm a music enthusiast*.
 - 💬 Ask me about *my goals*.
+- 📫 How to reach me :
 
 
 
